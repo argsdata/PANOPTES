@@ -1,10 +1,8 @@
-![Group 3-7](/Users/johnnyhsieh/Downloads/Group 3-7.png)
+![image](https://github.com/argsdata/PANOPTES/blob/master/PANOPTES/Group%205-5.png)
 
 # PANOPTES
 
 > Powerful Social Network relation Analysis solution. With the power of Panoptes,  you will have God's eyes to see through complex social media network.  
-
-![Infrastructure Background 09](/Users/johnnyhsieh/Downloads/Infrastructure Backgrounds Pack/Infrastructure Background 09.jpg)
 
 
 
@@ -20,21 +18,13 @@ With  "ARGS" system we can collect the social media infomation and  put into our
 
 "OLYMPUS",  inside OLYMPUS we can connect all the relate data into powerful Data visualized Platform which is "PANOPTES"
 
+##### a. Fans Composition Analysis
 
+##### b. Active User Insight
 
-### a. Fans Composition Analysis
+##### c. Zombie Account Detect
 
-
-
-### b. Active User Insight
-
-
-
-### c. Zombie Account Detect
-
-
-
-### d. Relation Analysis
+##### d. Relation Analysis
 
 
 

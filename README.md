@@ -10,7 +10,7 @@
 
 ## What can PANOPTES do?
 
-
+![image](https://github.com/argsdata/PANOPTES/blob/master/PANOPTES/PANO_STACK.png)
 
 ## 1. Social Network relation Analysis
 

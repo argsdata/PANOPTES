@@ -30,3 +30,6 @@ With  "ARGS" system we can collect the social media infomation and  put into our
 
 ## 2. Data Visualized Dashboard
 
+#### Self-Service Analytics
+Self-service Analytics is an most advanced architecture to data analytics that allow users to access and work with corporate data even if they do not have a background in statistical analysis, AI or data mining even IT apartment. PANOPTES allow users to filter, sort, analyze and visualize data without any data background, the only thing you need are PANOPTES and your domain knowhow.
+

@@ -1,6 +1,7 @@
 ![image](https://github.com/argsdata/PANOPTES/blob/master/PANOPTES/Group%205-5.png)
 
 # PANOPTES
+![image](https://github.com/argsdata/PANOPTES/blob/master/PANOPTES/PANO_STACK.png)
 
 > Powerful Social Network relation Analysis solution. With the power of Panoptes,  you will have God's eyes to see through complex social media network.  
 
@@ -10,7 +11,6 @@
 
 ## What can PANOPTES do?
 
-![image](https://github.com/argsdata/PANOPTES/blob/master/PANOPTES/PANO_STACK.png)
 
 ## 1. Social Network relation Analysis
 

@@ -26,7 +26,7 @@ With  "ARGS" system we can collect the social media infomation and  put into our
 
 ##### d. Relation Analysis
 
-
+![image](https://github.com/argsdata/PANOPTES/blob/master/PANOPTES/graph2.png)
 
 ## 2. Data Visualized Dashboard
 
